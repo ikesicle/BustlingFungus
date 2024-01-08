@@ -1,0 +1,8 @@
+/.DS_Store
+/bin
+/lib
+/__pycache__
+/servicefile.json
+/pyvenv.cfg
+/config.json
+/stations.json
